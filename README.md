@@ -7,4 +7,4 @@
 ![](images/Filters.jpg)
 
 # Visualize feature maps
-![](images/Feature maps.jpg)
+![](images/Feature-maps.jpg)
