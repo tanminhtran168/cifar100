@@ -1,10 +1,7 @@
 # cifar100
 
-# Model Accuracy
+# Model Accuracy and Loss
 ![](images/Accuracy.jpg)
-
-# Model Loss
-![](images/Loss.jpg)
 
 # Visualize filters
 ![](images/Filters.jpg)
